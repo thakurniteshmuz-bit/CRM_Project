@@ -1,0 +1,12 @@
+# Environment variables / Secrets
+.env
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Streamlit config
+.streamlit/
